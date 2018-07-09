@@ -11,3 +11,5 @@ Sample website with plenty of files for demos
 Hello world
 
 Another bit of something here
+
+2018 Theo M Jones
