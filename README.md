@@ -12,4 +12,4 @@ Hello world
 
 Another bit of something here
 
-2018 Theo M Jones
+2018 Theo M Jones Copyright...
